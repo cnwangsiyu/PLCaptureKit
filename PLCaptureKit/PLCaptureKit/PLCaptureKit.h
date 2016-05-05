@@ -14,5 +14,6 @@
 #import "PLCameraStreamingSession.h"
 #import "PLMicrophoneSource.h"
 #import "PLSourceAccessProtocol.h"
+#import "PLStreamingKit.h"
 
 #endif /* PLCaptureKit_h */
